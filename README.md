@@ -11,7 +11,7 @@
 6. That's it ..... open your browser and run localhost://
 <br><br>
 
-#Here how it looks like<br><br>
+### Here how it looks like<br><br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81944044/145029843-3c030cb9-20e7-4c82-9c5b-8a367843a3dd.png" width="45%" /> 
   &nbsp; &nbsp; &nbsp; &nbsp;

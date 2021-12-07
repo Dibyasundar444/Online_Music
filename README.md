@@ -1,8 +1,8 @@
 # Online_Music
 
-##This is a fully completed project (i.e. front-end,back-end,database,admin panel) of "online music" website where one can download and listne songs freely, developed using HTML, CSS in front-end and PHP in back-end and MySQL for DATABASE
+### This is a fully completed project (i.e. front-end,back-end,database,admin panel) of "online music" website where one can download and listne songs freely, developed using HTML, CSS in front-end and PHP in back-end and MySQL for DATABASE
 <br><br>
-You need the following steps to use it -
+#### You need the following steps to use it -
 1. Clone the code 
 2. install and run XAMPP in your machine
 3. copy the 'htdocs' folder and just paste it in your XAMPP directory where it(htdocs) will be replaced.
@@ -23,3 +23,8 @@ You need the following steps to use it -
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/81944044/145030309-56fe7e69-3654-4060-be0b-b61b437c90fe.png" width="45%" />
 </p>
+<br><br><br>
+<p align="center">
+  <b>😊..Happy Coding..😊</b><br>
+  <b>😃...Thank you for visit...😃</b>
+  </p>

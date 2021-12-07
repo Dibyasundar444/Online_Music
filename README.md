@@ -12,12 +12,14 @@ You need the following steps to use it -
 <br><br>
 
 #Here how it looks like<br><br>
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/81944044/145029843-3c030cb9-20e7-4c82-9c5b-8a367843a3dd.png" width="500" /> 
-  <img src="https://user-images.githubusercontent.com/81944044/145029956-9d5bcaff-aa29-4ffe-b762-313e01f4d9c2.png" width="500" /> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81944044/145029843-3c030cb9-20e7-4c82-9c5b-8a367843a3dd.png" width="45%" /> 
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://user-images.githubusercontent.com/81944044/145029956-9d5bcaff-aa29-4ffe-b762-313e01f4d9c2.png" width="45%" /> 
 </p>
 <br>
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/81944044/145030080-892402e0-460e-43ce-b3cc-df42f68a7cf6.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/81944044/145030309-56fe7e69-3654-4060-be0b-b61b437c90fe.png" width="500" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81944044/145030080-892402e0-460e-43ce-b3cc-df42f68a7cf6.png" width="45%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://user-images.githubusercontent.com/81944044/145030309-56fe7e69-3654-4060-be0b-b61b437c90fe.png" width="45%" />
 </p>
